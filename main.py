@@ -49,15 +49,15 @@ usage - commands{} link{https://...} (example -->/adf https://adf.ly/xyz)
 def adf(update, context):
         zipk = context.args[0]
         open('1.txt','w').write(zipk)
-        update.message.reply_text(f"processing")
+        update.message.reply_text(f"Bypassing The Link")
         os.system('python bypas.py')
         zkm = open('2.txt', 'r').read()
-        update.message.reply_text(f"Done")
+        update.message.reply_text(f"Link Bypassed")
         update.message.reply_text(f"{zkm}")
 def ex(update, context):
         zipk = context.args[0]
         open('1.txt','w').write(zipk)
-        update.message.reply_text(f"processing")
+        update.message.reply_text(f"Bypassing The Link")
         os.system('python ex.py')
         zkm = open('2.txt', 'r').read()
         update.message.reply_text(f"{zkm}")
@@ -65,16 +65,16 @@ def ex(update, context):
 def gp(update, context):
         zipk = context.args[0]
         open('1.txt','w').write(zipk)
-        update.message.reply_text(f"processing")
+        update.message.reply_text(f"Bypassing The Link")
         os.system('python gp.py')
-        update.message.reply_text(f"Done")
+        update.message.reply_text(f"Link Bypassed")
         zkm = open('2.txt', 'r').read()
         update.message.reply_text(f"{zkm}")
 
 def droplink(update, context):
         zipk = context.args[0]
         open('1.txt','w').write(zipk)
-        update.message.reply_text(f"processing")
+        update.message.reply_text(f"Bypassing The Link")
         os.system('python droplink.py')
         zkm = open('2.txt', 'r').read()
         update.message.reply_text(f"{zkm}")
@@ -82,7 +82,7 @@ def droplink(update, context):
 def sd(update, context):
         zipk = context.args[0]
         open('1.txt','w').write(zipk)
-        update.message.reply_text(f"processing")
+        update.message.reply_text(f"Bypassing The Link")
         os.system('python sd.py')
         zkm = open('2.txt', 'r').read()
         update.message.reply_text(f"{zkm}")
@@ -90,7 +90,7 @@ def sd(update, context):
 def lv(update, context):
         zipk = context.args[0]
         open('1.txt','w').write(zipk)
-        update.message.reply_text(f"processing")
+        update.message.reply_text(f"Bypassing The Link")
         os.system('python ex.py')
         zkm = open('2.txt', 'r').read()
         update.message.reply_text(f"{zkm}")
