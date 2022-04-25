@@ -42,8 +42,8 @@ print(gplinks_bypass(url))
 '''
 SAMPLE OUTPUT:
 {
-    'status': 'success', 
-    'message': 'XXXXXX', 
-    'url': 'XXXX' (Bypassed URL)
+    'Status': 'Bypassed', 
+    'Info': 'XXXXXX', 
+    'Bypassed URL': 'XXXX' (Bypassed URL)
 }
 '''
