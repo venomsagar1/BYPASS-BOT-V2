@@ -5,7 +5,7 @@
 [Bruce](https://Brooklyn888@github.com) - Owner Of Bypass Bot Repo.
 
 #Warning
-Those Who are Forking This Repo,Be Careful.Its my private repo.I modiedfied by my self.
+Those Who are Forking This Repo,Be Careful.Its my private repo.I modified by my self.
 
 
 ## Supported Links
