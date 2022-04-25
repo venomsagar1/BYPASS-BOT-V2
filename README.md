@@ -2,12 +2,10 @@
 
 
 ## contributers
-- (deku/anyway/animewala) - telegram bot creator or convertor
-- TheCaduceus - bypass bots repo supplier
-- yuuki - gplink and droplink bypass bot creator
+[Bruce](https://Brooklyn888@github.com) - Owner Of Bypass Bot Repo.
 
-
-
+#Warning
+Those Who are Forking This Repo,Be Careful.Its my private repo.I modiedfied by my self.
 
 
 ## Supported Links
@@ -36,12 +34,13 @@
 # bot father commands list
 ```javascript
 start - Welcome Message
-help - all command list
-adf - bypass adf.ly link
-droplink -  bypass droplink.co link
-sd - AppDrive or DriveApp links (login required wont work )
-lv -  linkvertise link bypass
-ex - other supported link bypass
+
+adf - Bypass adf.ly links
+droplink -  Bypass droplink.co links
+sd - Bypass AppDrive or DriveApp links (login required)
+lv -  Bypass Linkvertise links
+ex - Bypass Other Links
+help - Commands List
 ```
 
 # Intial Deploy to heroku
@@ -67,11 +66,11 @@ for Linux
 ```
 
 ### (Deploying to Heroku)
-- fork this repo and edit TOKEN.txt and fill your bot token
+- Fork this repo and edit TOKEN.txt and fill your bot token
 - use the link below and deploy it
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Animewala/bot)
 
-- dont forget to enable worker in resources tab
+- Don't forget to enable worker in resources tab
 - done
 
