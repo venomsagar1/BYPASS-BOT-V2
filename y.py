@@ -39,7 +39,7 @@ print(gplinks_bypass(url))
 
 # ==============================================
 
-'''
+f'''
 SAMPLE OUTPUT:
 {
     'Status': 'Bypassed', 
