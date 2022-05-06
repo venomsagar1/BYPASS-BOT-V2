@@ -25,7 +25,7 @@ def gplinks_bypass(url):
         'x-requested-with': 'XMLHttpRequest'
     }
     
-    time.sleep(10) # !important
+    time.sleep(5) # !important
     
     p = urlparse(url)
     final_url = f'{p.scheme}://{p.netloc}/links/go'
