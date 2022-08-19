@@ -16,32 +16,20 @@ def help(update, context):
 
 /adf -> bypass adf.ly link
 
-/droplink -> bypass droplink.co link
-
-/gp -> bypass gplink stinky url
-
 /lv -> linkvertise link bypass
 
 /sd -> AppDrive or DriveApp links (login required wont work for now)
 
 /ex -> use this command for these services
 linkvertise.com
-exe.io/exey.io
-sub2unlock.net/sub2unlock.com
 rekonise.com
 letsboost.net
-ph.apps2app.com
 mboost.me
-shortconnect.com
-sub4unlock.com
-ytsubme.com
 bit.ly
-social-unlock.com
 boost.ink
 goo.gl
 shrto.ml
 t.co
-tinyurl.com
 
 usage - commands{} link{https://...} (example -->/adf https://adf.ly/xyz)
    """)
