@@ -5,7 +5,7 @@ with open('token.txt', 'r') as f:
  TOKEN = f.read()
 
 def start(update, context):
-    update.message.reply_text("Hello Bro.\nI am Bypass Bot. Made with Love By GreyMatter's Bot \n:@GreyMatter_Bots")
+    update.message.reply_text("Hello Bro.\nI am Bypass Bot. Made with Love By \nGreyMatter's Bot👉 @GreyMatter_Bots")
     
 def help(update, context):
    update.message.reply_text("""
