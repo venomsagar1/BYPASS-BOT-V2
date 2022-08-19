@@ -9,12 +9,17 @@ Those Who are Forking This Repo,Be Careful.Its my private repo.I modified by my 
 
 
 ## Supported Links👇
- adf.ly 
-Linkvertise.com
-bit.ly
-rekonise.com
-mboost.me
-letsboost.net
+- adf.ly 
+
+- Linkvertise.com
+
+- bit.ly
+
+- rekonise.com
+
+- mboost.me
+
+- letsboost.net
 
 # bot father commands list
 ```javascript
