@@ -30,7 +30,7 @@ lv -  Bypass Linkvertise links
 ex - Bypass Other Links
 help - Commands List
 ```
-
+# [Video Tutorial](https://youtu.be/SArmVzCWsUM)
 # Intial Deploy to heroku
 Intially I was not able to push a simple bot to heroku, but yeah googling a lot made it work!
 
